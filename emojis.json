@@ -1,0 +1,212 @@
+{
+  "HELP": {
+    "name": "xy_help",
+    "source": "1557340871408619610",
+    "animated": false
+  },
+  "SUCCESS": {
+    "name": "xy_success",
+    "source": "1557341091307462717",
+    "animated": false
+  },
+  "INFO": {
+    "name": "xy_info",
+    "source": "1557341099910242335",
+    "animated": false
+  },
+  "CATEGORIES": {
+    "name": "xy_categories",
+    "source": "1557341047485366312",
+    "animated": false
+  },
+  "MUSIC": {
+    "name": "xy_music",
+    "source": "1557394851434332271",
+    "animated": false
+  },
+  "UTILITY": {
+    "name": "xy_utility",
+    "source": "1557341127793844224",
+    "animated": false
+  },
+  "CONFIG": {
+    "name": "xy_config",
+    "source": "1557398879568269332",
+    "animated": false
+  },
+  "PREMIUM": {
+    "name": "xy_premium",
+    "source": "1557341045241417758",
+    "animated": false
+  },
+  "FUN": {
+    "name": "xy_fun",
+    "source": "1557399611583242401",
+    "animated": false
+  },
+  "SETTINGS": {
+    "name": "xy_settings",
+    "source": "1557340917348700260",
+    "animated": false
+  },
+  "STATS": {
+    "name": "xy_stats",
+    "source": "1557397112885612665",
+    "animated": false
+  },
+  "PONG": {
+    "name": "xy_pong",
+    "source": "1557397736062714057",
+    "animated": false
+  },
+  "TEAM": {
+    "name": "xy_team",
+    "source": "1557341083409588295",
+    "animated": false
+  },
+  "LATENCY": {
+    "name": "xy_latency",
+    "source": "1557395936727138424",
+    "animated": false
+  },
+  "ERROR": {
+    "name": "xy_error",
+    "source": "1557341102372163684",
+    "animated": false
+  },
+  "MEMBER": {
+    "name": "xy_member",
+    "source": "1557341081354371072",
+    "animated": false
+  },
+  "DOT": {
+    "name": "xy_dot",
+    "source": "1557391400021270548",
+    "animated": true
+  },
+  "PLAYING": {
+    "name": "xy_playing",
+    "source": "1513451285880246322",
+    "animated": true
+  },
+  "COIN": {
+    "name": "xy_coin",
+    "source": null,
+    "animated": false
+  },
+  "FREE": {
+    "name": "xy_free",
+    "source": null,
+    "animated": false
+  },
+  "BOOST": {
+    "name": "xy_boost",
+    "source": null,
+    "animated": false
+  },
+  "DANGER": {
+    "name": "xy_danger",
+    "source": null,
+    "animated": false
+  },
+  "USAGE": {
+    "name": "xy_usage",
+    "source": null,
+    "animated": false
+  },
+  "AFK": {
+    "name": "xy_afk",
+    "source": null,
+    "animated": false
+  },
+  "YOUTUBE": {
+    "name": "xy_youtube",
+    "source": "1557403290252218498",
+    "animated": true
+  },
+  "SPOTIFY": {
+    "name": "xy_spotify",
+    "source": null,
+    "animated": false
+  },
+  "SOUNDCLOUD": {
+    "name": "xy_soundcloud",
+    "source": null,
+    "animated": false
+  },
+  "PLAN": {
+    "name": "xy_plan",
+    "source": null,
+    "animated": false
+  },
+  "BTN_AUTOPLAY": {
+    "name": "xy_btn_autoplay",
+    "source": null,
+    "animated": false
+  },
+  "BTN_PREVIOUS": {
+    "name": "xy_btn_previous",
+    "source": null,
+    "animated": false
+  },
+  "BTN_PAUSE": {
+    "name": "xy_btn_pause",
+    "source": null,
+    "animated": false
+  },
+  "BTN_SKIP": {
+    "name": "xy_btn_skip",
+    "source": null,
+    "animated": false
+  },
+  "BTN_LOOP": {
+    "name": "xy_btn_loop",
+    "source": null,
+    "animated": false
+  },
+  "BTN_FILTERS": {
+    "name": "xy_btn_filters",
+    "source": null,
+    "animated": false
+  },
+  "BTN_REWIND": {
+    "name": "xy_btn_rewind",
+    "source": null,
+    "animated": false
+  },
+  "BTN_STOP": {
+    "name": "xy_btn_stop",
+    "source": null,
+    "animated": false
+  },
+  "BTN_FORWARD": {
+    "name": "xy_btn_forward",
+    "source": null,
+    "animated": false
+  },
+  "BTN_LIKE": {
+    "name": "xy_btn_like",
+    "source": null,
+    "animated": false
+  },
+  "BADGE_OWNER": {
+    "name": "xy_badge_owner",
+    "source": null,
+    "animated": false
+  },
+  "BADGE_STAFF": {
+    "name": "xy_badge_staff",
+    "source": null,
+    "animated": false
+  },
+  "BADGE_PREMIUM": {
+    "name": "xy_badge_premium",
+    "source": null,
+    "animated": false
+  },
+  "BADGE_NOPREFIX": {
+    "name": "xy_badge_noprefix",
+    "source": null,
+    "animated": false
+  }
+}
